@@ -114,6 +114,15 @@
             { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/出家人.png\">", "text": "heo-出家人" }
         ]
       },    
+      "微博": {
+        "type": "image",
+        "container": [
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/weibo/weibo_alpaca.png\">", "text": "" },
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/weibo/weibo_angry.png\">", "text": "" }
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/weibo/weibo_annoyed.png\">", "text": "" }
+            { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/weibo/weibo_annoyed_left.png\">", "text": "" }
+        ]
+      },    
     "Emoji": {
       "type": "emoji",
       "container": [
